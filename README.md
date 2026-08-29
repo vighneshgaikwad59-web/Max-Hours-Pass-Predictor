@@ -43,8 +43,5 @@ Based on hours=3.5, you likely PASS
   `[1], [2], [3], [4]` (which is a tuple of separate lists and will raise
   an error).
 
-## Possible next steps
-
-- Add more training data points for a more reliable model.
 - Plot the sigmoid decision boundary with matplotlib.
 - Try `model.predict_proba()` to show the probability of passing.
